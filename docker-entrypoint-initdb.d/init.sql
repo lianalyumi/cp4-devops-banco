@@ -34,4 +34,4 @@ INSERT INTO animal (nome, especie, raca, peso, data_nascimento, microchip, rg, r
 VALUES ('Rex', 'cachorro', 'Labrador', 22.50, '2020-05-10', '5482', '12442500', 1);
 
 INSERT INTO animal (nome, especie, raca, peso, data_nascimento, microchip, rg, responsavel_id)
-VALUES ('Mia', 'gato', 'Siames', 4.20, '2021-08-22', NULL, NULL, 2);
+VALUES ('Mia', 'gato', 'Siames', 4.20, '2021-08-22',  '6958', '69857423', 2);
